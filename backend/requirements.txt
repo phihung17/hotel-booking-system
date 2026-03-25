@@ -3,3 +3,4 @@ dotenv
 django
 djangorestframework
 psycopg2-binary
+drf-yasg
