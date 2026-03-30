@@ -1,0 +1,14 @@
+[
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af56",
+    "name": "admin"
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af57",
+    "name": "customer"
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af58",
+    "name": "owner"
+  }
+]
