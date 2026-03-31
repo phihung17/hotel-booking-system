@@ -1,0 +1,64 @@
+[
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af56",
+    "email": "admin@gmail.com",
+    "first_name": "Admin",
+    "last_name": "1",
+    "phone": "01234567890",
+    "is_active": true
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af57",
+    "email": "customer1@gmail.com",
+    "password": "customer1",
+    "first_name": "Customer",
+    "last_name": "1",
+    "phone": "01234567890",
+    "is_active": true
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af58",
+    "email": "customer2@gmail.com",
+    "password": "customer2",
+    "first_name": "Customer",
+    "last_name": "2",
+    "phone": "01234567890",
+    "is_active": true
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af59",
+    "email": "customer3@gmail.com",
+    "password": "customer3",
+    "first_name": "Customer",
+    "last_name": "3",
+    "phone": "01234567890",
+    "is_active": true
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af60",
+    "email": "owner1@gmail.com",
+    "password": "owner1",
+    "first_name": "Owner",
+    "last_name": "1",
+    "phone": "01234567890",
+    "is_active": true
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af61",
+    "email": "owner2@gmail.com",
+    "password": "owner2",
+    "first_name": "Owner",
+    "last_name": "2",
+    "phone": "01234567890",
+    "is_active": true
+  },
+  {
+    "id": "68bfb822-5ca2-4d56-91b5-f3b43084af62",
+    "email": "owner3@gmail.com",
+    "password": "owner3",
+    "first_name": "Owner",
+    "last_name": "3",
+    "phone": "01234567890",
+    "is_active": true
+  }
+]
